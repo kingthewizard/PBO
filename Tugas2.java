@@ -1,5 +1,3 @@
-package PBO;
-
 class Tugas2{
     static float Pi = 3.14f;
     public static void main(String[] args){
